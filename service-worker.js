@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/first-react-project-todos/precache-manifest.dc5556ac724896cda9e4ba7e0e129e08.js"
+  "/todos/precache-manifest.d096415f8e7f17d356311797fb73909e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/first-react-project-todos/index.html", {
+workbox.routing.registerNavigationRoute("/todos/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

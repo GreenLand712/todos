@@ -1,13 +1,13 @@
 {
-  "main.css": "/first-react-project-todos/static/css/main.31e1bad0.chunk.css",
-  "main.js": "/first-react-project-todos/static/js/main.3cde62a1.chunk.js",
-  "main.js.map": "/first-react-project-todos/static/js/main.3cde62a1.chunk.js.map",
-  "runtime~main.js": "/first-react-project-todos/static/js/runtime~main.60405125.js",
-  "runtime~main.js.map": "/first-react-project-todos/static/js/runtime~main.60405125.js.map",
-  "static/js/2.4622679c.chunk.js": "/first-react-project-todos/static/js/2.4622679c.chunk.js",
-  "static/js/2.4622679c.chunk.js.map": "/first-react-project-todos/static/js/2.4622679c.chunk.js.map",
-  "index.html": "/first-react-project-todos/index.html",
-  "precache-manifest.dc5556ac724896cda9e4ba7e0e129e08.js": "/first-react-project-todos/precache-manifest.dc5556ac724896cda9e4ba7e0e129e08.js",
-  "service-worker.js": "/first-react-project-todos/service-worker.js",
-  "static/css/main.31e1bad0.chunk.css.map": "/first-react-project-todos/static/css/main.31e1bad0.chunk.css.map"
+  "main.css": "/todos/static/css/main.31e1bad0.chunk.css",
+  "main.js": "/todos/static/js/main.e86a3063.chunk.js",
+  "main.js.map": "/todos/static/js/main.e86a3063.chunk.js.map",
+  "runtime~main.js": "/todos/static/js/runtime~main.62e16b8d.js",
+  "runtime~main.js.map": "/todos/static/js/runtime~main.62e16b8d.js.map",
+  "static/js/2.4622679c.chunk.js": "/todos/static/js/2.4622679c.chunk.js",
+  "static/js/2.4622679c.chunk.js.map": "/todos/static/js/2.4622679c.chunk.js.map",
+  "index.html": "/todos/index.html",
+  "precache-manifest.d096415f8e7f17d356311797fb73909e.js": "/todos/precache-manifest.d096415f8e7f17d356311797fb73909e.js",
+  "service-worker.js": "/todos/service-worker.js",
+  "static/css/main.31e1bad0.chunk.css.map": "/todos/static/css/main.31e1bad0.chunk.css.map"
 }
