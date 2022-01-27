@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://greenland712.github.io/todos/",
+  "homepage": "https://greenland712.github.io/todos",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "history": "^5.2.0",
