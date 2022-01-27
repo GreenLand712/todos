@@ -34,7 +34,7 @@ export default function Navbar() {
                 {links.map(link => {
                     return (
                         <li key={link.id}>
-                            <NavLink to={link.path} className='navbar' exact onClick={closeMenu}>{link.text}</NavLink>
+                            <NavLink to={link.path} activeClassName='active-link' exact onClick={closeMenu}>{link.text}</NavLink>
                         </li>
                     )}
                 )}

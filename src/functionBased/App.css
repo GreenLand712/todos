@@ -86,6 +86,11 @@ body {
     background: transparent;
     border: none;
   }
+
+  .active-link {
+    color: orangered;
+    text-decoration: underline;
+  }
   
   .menuNav {
     overflow-y: scroll;
